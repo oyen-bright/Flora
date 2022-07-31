@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932257065605",
+    "project_id": "flora-media-limited",
+    "storage_bucket": "flora-media-limited.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932257065605:android:4a2a5e703bed028de7d7ec",
+        "android_client_info": {
+          "package_name": "com.brinnixs.flora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932257065605-3urjo25oir2netud3eiq34l1t02q3kh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brinnixs.flora",
+            "certificate_hash": "b7cd9864e8e19010bd54850f3458dff165aebca8"
+          }
+        },
+        {
+          "client_id": "932257065605-jq0tgr02pmrbs51tsj8hhnq2kgplojc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNJlLhhRaSfsfXIbGR_JYbnJGp5F_XhyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932257065605-jq0tgr02pmrbs51tsj8hhnq2kgplojc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

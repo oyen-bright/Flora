@@ -1,0 +1,14 @@
+export 'home_screen.dart';
+export 'nav_screen.dart';
+export 'search_screen.dart';
+export 'comingsoon_screen.dart';
+export 'downloads_screen.dart';
+export 'movie_screen.dart';
+export 'movies.dart';
+export 'onboarding_screen.dart';
+export 'userRegistration/Screens/Welcome/welcome_screen.dart';
+export 'userRegistration/Screens/UserProfile/userprofile_screen.dart';
+export 'paymentScreen.dart';
+export 'movie_info.dart';
+export 'payment_history_screen.dart';
+export 'my_list.dart';
